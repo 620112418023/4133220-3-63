@@ -1,0 +1,23 @@
+body {
+    font-family: 'Kanit', sans-serif;
+}
+
+h1 {
+    color: blue;
+}
+
+P {
+    margin: -10PX 0PX -10PX 0PX;
+}
+
+strong {
+    background-color: blueviolet;
+}
+
+#it {
+    color: crimson;
+}
+
+.bg-yellow {
+    background-color: yellow;
+}
