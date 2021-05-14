@@ -17,7 +17,7 @@ try {
             <th>ID</th>
             <th>NAME - LASTNAME</th>
             <th>Date of Birth</th>
-            <th></th>
+            <th>Del</th>
         </tr>
     </thead>
     <tbody>
